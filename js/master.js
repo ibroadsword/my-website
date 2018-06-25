@@ -1,4 +1,4 @@
-//Script to open Dropdown on sidebar
+// Script to open Dropdown on mobile sidebar
 var dropdown = function() {
     var menu = document.getElementById("dropdown-menu");
     if (menu.className.indexOf("w3-show") == -1) {

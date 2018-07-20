@@ -26,6 +26,7 @@ a.nav-menu {
     width: 100% !important;
     font-size: 22px !important;
 }
+.mobile-nav { box-shadow: 0px 2px 5px gray; }
 .w3-hover-white, .w3-my-button, input, i { transition: 300ms; } 
 #about { margin-top: 70px; }
 #projects, #contact { margin-top: 65px; }
